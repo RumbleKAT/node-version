@@ -1,0 +1,9 @@
+{
+    "name": "node12_project",
+    "version": "1.0.0",
+    "scripts": {
+      "prestart": "run_12.bat",
+      "start": "node index.js"
+    }
+  }
+  
